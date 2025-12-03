@@ -1,5 +1,5 @@
 import 'package:atalaia_ar_condicionados_flutter_application/Pages/chatbot_widget.dart';
-import 'package:atalaia_ar_condicionados_flutter_application/Pages/exit_page.dart';
+//import 'package:atalaia_ar_condicionados_flutter_application/Pages/exit_page.dart';
 import 'package:flutter/material.dart';
 import 'package:atalaia_ar_condicionados_flutter_application/Pages/calculadora_page.dart';
 import 'package:atalaia_ar_condicionados_flutter_application/Pages/home_page.dart';
