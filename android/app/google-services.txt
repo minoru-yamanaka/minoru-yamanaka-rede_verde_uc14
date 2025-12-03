@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "440565247109",
+    "project_id": "atalaia-141e4",
+    "storage_bucket": "atalaia-141e4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440565247109:android:1eda3289a81d086bd2cdec",
+        "android_client_info": {
+          "package_name": "com.example.atalaia_ar_condicionados_flutter_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHl9vBSkZ_GwM3lFW0WBX-SZSOWFP-HLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

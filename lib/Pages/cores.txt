@@ -1,0 +1,18 @@
+As cores que usei neste último banner da RedeVerde, com tons pastéis claros e mantendo o rosa de destaque, são:
+
+* **Fundo:** Um tom de verde pastel muito claro (aproximadamente `#E6F7E1`).
+* **Logo (Folhas e Círculo):** O verde principal do projeto (`0xFF27C5B2`) e um verde pastel um pouco mais escuro (aproximadamente `#B5E3AB`).
+* **Nome Principal (RedeVerde):** O rosa de destaque que você pediu para manter (`0xFFFC7ACF`).
+* **Slogan (CULTIVO COLABORATIVO):** Um azul escuro ou cinza muito escuro (similar a `0xFF0C1D34` da sua página original, mas com um toque mais suave para combinar com o pastel).
+
+Aqui estão as cores principais em destaque:
+
+| Elemento | Cor (Hex) | Nome |
+| :--- | :--- | :--- |
+| **Destaque Principal** (RedeVerde) | `#FC7ACF` | Rosa Destaque (Pink Accent) |
+| **Verde Principal** (Teal) | `#27C5B2` | Verde Principal da RedeVerde |
+| **Fundo** | `#E6F7E1` | Verde Pastel Claro |
+
+---
+
+Posso gerar uma paleta de cores completa ou fazer algum ajuste no banner?
