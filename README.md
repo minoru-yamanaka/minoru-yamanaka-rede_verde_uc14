@@ -165,6 +165,11 @@ Você pode baixar e instalar a versão mais recente do aplicativo RedeVerde dire
       <!-- build/app/outputs/flutter-apk/app-release.apk -->
 
       * [Link para Download do `app-release.apk`](app-release.apk) 
+  
+      *  QR Code para baixar o APK 
+  
+            <img src="assets\img\qr_code.png" width="200"> 
+
 
 2.  **Permitir Fontes Desconhecidas:**
 
